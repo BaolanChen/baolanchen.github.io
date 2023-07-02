@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BaolanChen&#39;s Space🍉</title>
   
-  
+  <subtitle>个人博客</subtitle>
   <link href="https://baolan.vip/atom.xml" rel="self"/>
   
   <link href="https://baolan.vip/"/>
