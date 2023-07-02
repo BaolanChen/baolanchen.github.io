@@ -3168,15 +3168,15 @@ let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
 // unsplash随机 https://source.unsplash.com/random/1920x1080/daily (weekly)
 let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
 
-
+// url(https://source.fomal.cc/img/home_bg.webp)
 // 更换背景(自己的代码)
 if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://source.fomal.cc/img/home_bg.webp);
+    --default-bg: /img/background.png;
     --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
+    --mobileday-bg: /img/background.png;
     --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
   }`;
 }
