@@ -6,7 +6,7 @@
   <link href="https://baolan.vip/atom.xml" rel="self"/>
   
   <link href="https://baolan.vip/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2023-07-03T14:00:00.000Z</updated>
   <id>https://baolan.vip/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>算法工程师的发展之路</title>
+    <link href="https://baolan.vip/posts/2013454d.html"/>
+    <id>https://baolan.vip/posts/2013454d.html</id>
+    <published>2023-07-03T10:19:03.000Z</published>
+    <updated>2023-07-03T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1>1.算法工程师是什么</h1><div class="note info flat"><p>参考：<a href="https://blog.csdn.net/u014061630/article/details/81359144">Markdown语法图文全面详解(10分钟学会)</a></p></div><div class="note warning flat"><p>注意：此页面偶尔会存在CSS冲突问题!</p></div>]]></content>
+    
+    
+    <summary type="html">🥧本文汇总算法工程师相关资料，可作为文档进行查询</summary>
+    
+    
+    
+    <category term="演示" scheme="https://baolan.vip/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+    <category term="职业发展" scheme="https://baolan.vip/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
+    
+    <category term="人工智能" scheme="https://baolan.vip/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
