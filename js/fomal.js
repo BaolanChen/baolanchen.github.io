@@ -3174,9 +3174,9 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: /img/background.png;
+    --default-bg: url(https://source.baolan.vip/img/bakground.png);
     --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: /img/background.png;
+    --mobileday-bg: url(https://source.baolan.vip/img/home_bg.webp);
     --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
   }`;
 }
