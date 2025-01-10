@@ -3,11 +3,11 @@
   <title>BaolanChen&#39;s Space🍉</title>
   
   <subtitle>个人博客</subtitle>
-  <link href="https://baolan.vip/atom.xml" rel="self"/>
+  <link href="https://baolanchen.space/atom.xml" rel="self"/>
   
   <link href="https://baolan.vip/"/>
   <updated>2023-07-03T14:00:00.000Z</updated>
-  <id>https://baolan.vip/</id>
+  <id>https://baolanchen.space/</id>
   
   <author>
     <name>Baolanchen🍉</name>
@@ -27,7 +27,6 @@
     
     
     <summary type="html">🥧本文汇总算法工程师相关资料，可作为文档进行查询</summary>
-    
     
     
     <category term="演示" scheme="https://baolan.vip/categories/%E6%BC%94%E7%A4%BA/"/>
