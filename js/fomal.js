@@ -3093,7 +3093,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(/img/cartoon_4.jpeg);
+    --default-bg: url(https://source.fomal.cc/img/home_bg.webp);
     --darkmode-bg: ${s};
     --mobileday-bg: ${s};
     --mobilenight-bg: ${s};
@@ -3110,7 +3110,7 @@ function changeBg(s) {
 // 设置背景属性
 function setBg(s) {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: /img/cartoon_4.jpeg;
+    --default-bg: url(https://source.fomal.cc/img/home_bg.webp);
     --darkmode-bg: ${s};
     --mobileday-bg: ${s};
     --mobilenight-bg: ${s};
