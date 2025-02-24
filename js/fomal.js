@@ -3093,9 +3093,9 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://source.fomal.cc/img/home_bg.webp);
+    --default-bg: url(https://s21.ax1x.com/2025/02/25/pE1tqTP.jpg);
     --darkmode-bg:url(https://source.fomal.cc/img/home_bg.webp);
-    --mobileday-bg: url(https://source.fomal.cc/img/home_bg.webp);
+    --mobileday-bg: url(https://s21.ax1x.com/2025/02/25/pE1tbwt.jpg);
     --mobilenight-bg: url(https://source.fomal.cc/img/home_bg.webp);
   }`;
 }
