@@ -3094,10 +3094,9 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://source.fomal.cc/img/home_bg.webp);
-    --darkmode-bg: ${s};
-    --mobileday-bg: ${s};
-    --mobilenight-bg: ${s};
-
+    --darkmode-bg:url(https://source.fomal.cc/img/home_bg.webp);
+    --mobileday-bg: url(https://source.fomal.cc/img/home_bg.webp);
+    --mobilenight-bg: url(https://source.fomal.cc/img/home_bg.webp);
   }`;
 }
 // 切换背景主函数
