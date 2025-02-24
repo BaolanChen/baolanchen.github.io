@@ -44,7 +44,7 @@
     <published>2025-02-23T12:19:03.000Z</published>
     <updated>2025-02-23T14:11:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1>1.什么是量化投资</h1><h1>2.量化投资学习</h1><h1>3.量化投资样例</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="1-什么是量化投资"><a href="#1-什么是量化投资" class="headerlink" title="1.什么是量化投资"></a>1.什么是量化投资</h1><h1 id="2-量化投资学习"><a href="#2-量化投资学习" class="headerlink" title="2.量化投资学习"></a>2.量化投资学习</h1><h1 id="3-量化投资样例"><a href="#3-量化投资样例" class="headerlink" title="3.量化投资样例"></a>3.量化投资样例</h1>]]></content>
     
     
     <summary type="html">本文介绍量化投资学习</summary>
@@ -54,9 +54,7 @@
     <category term="投资" scheme="https://baolanchen.space/categories/%E6%8A%95%E8%B5%84/"/>
     
     
-    <category term="职业发展" scheme="https://baolanchen.space/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
-    
-    <category term="人工智能" scheme="https://baolanchen.space/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="投资" scheme="https://baolanchen.space/tags/%E6%8A%95%E8%B5%84/"/>
     
   </entry>
   
@@ -67,17 +65,15 @@
     <published>2025-02-11T10:19:03.000Z</published>
     <updated>2025-02-11T14:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1>1.大语言模型的前世今生</h1><h1>2.大模型SFT</h1><h1>3.大模型Post-Training</h1><h1>4.大模型RLHF</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="1-大语言模型的前世今生"><a href="#1-大语言模型的前世今生" class="headerlink" title="1.大语言模型的前世今生"></a>1.大语言模型的前世今生</h1><h1 id="2-大模型SFT"><a href="#2-大模型SFT" class="headerlink" title="2.大模型SFT"></a>2.大模型SFT</h1><h1 id="3-大模型Post-Training"><a href="#3-大模型Post-Training" class="headerlink" title="3.大模型Post-Training"></a>3.大模型Post-Training</h1><h1 id="4-大模型RLHF"><a href="#4-大模型RLHF" class="headerlink" title="4.大模型RLHF"></a>4.大模型RLHF</h1>]]></content>
     
     
     <summary type="html">本文介绍大语言模型基础知识</summary>
     
     
     
-    <category term="人工智能" scheme="https://baolanchen.space/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="算法" scheme="https://baolanchen.space/categories/%E7%AE%97%E6%B3%95/"/>
     
-    
-    <category term="职业发展" scheme="https://baolanchen.space/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
     
     <category term="人工智能" scheme="https://baolanchen.space/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
@@ -90,17 +86,15 @@
     <published>2025-01-21T10:19:03.000Z</published>
     <updated>2025-01-21T14:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1>1.深度学习是什么</h1><h1>2.深度学习基础</h1><h1>3.优化器</h1><h1>4.参数初始化</h1><h1>5.损失函数</h1><h1>6.激活函数</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="1-深度学习是什么"><a href="#1-深度学习是什么" class="headerlink" title="1.深度学习是什么"></a>1.深度学习是什么</h1><h1 id="2-深度学习基础"><a href="#2-深度学习基础" class="headerlink" title="2.深度学习基础"></a>2.深度学习基础</h1><h1 id="3-优化器"><a href="#3-优化器" class="headerlink" title="3.优化器"></a>3.优化器</h1><h1 id="4-参数初始化"><a href="#4-参数初始化" class="headerlink" title="4.参数初始化"></a>4.参数初始化</h1><h1 id="5-损失函数"><a href="#5-损失函数" class="headerlink" title="5.损失函数"></a>5.损失函数</h1><h1 id="6-激活函数"><a href="#6-激活函数" class="headerlink" title="6.激活函数"></a>6.激活函数</h1>]]></content>
     
     
     <summary type="html">本文介绍深度学习相关知识</summary>
     
     
     
-    <category term="人工智能" scheme="https://baolanchen.space/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="算法" scheme="https://baolanchen.space/categories/%E7%AE%97%E6%B3%95/"/>
     
-    
-    <category term="职业发展" scheme="https://baolanchen.space/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
     
     <category term="人工智能" scheme="https://baolanchen.space/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
@@ -113,14 +107,14 @@
     <published>2023-07-03T10:19:03.000Z</published>
     <updated>2023-07-03T14:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1>1.算法工程师是什么</h1><div class="note info flat"><p>参考：<a href="https://blog.csdn.net/u014061630/article/details/81359144">Markdown语法图文全面详解(10分钟学会)</a></p></div><h1>2.算法工程师的工作日常</h1><h1>3.常用工具</h1><h1>3.生活状态</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="1-算法工程师是什么"><a href="#1-算法工程师是什么" class="headerlink" title="1.算法工程师是什么"></a>1.算法工程师是什么</h1><div class="note info flat"><p>参考：<a href="https://blog.csdn.net/u014061630/article/details/81359144">Markdown语法图文全面详解(10分钟学会)</a></p></div><h1 id="2-算法工程师的工作日常"><a href="#2-算法工程师的工作日常" class="headerlink" title="2.算法工程师的工作日常"></a>2.算法工程师的工作日常</h1><h1 id="3-常用工具"><a href="#3-常用工具" class="headerlink" title="3.常用工具"></a>3.常用工具</h1><h1 id="3-生活状态"><a href="#3-生活状态" class="headerlink" title="3.生活状态"></a>3.生活状态</h1>]]></content>
     
     
     <summary type="html">🥧本文汇总算法工程师相关资料，可作为文档进行查询</summary>
     
     
     
-    <category term="人工智能" scheme="https://baolanchen.space/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="算法" scheme="https://baolanchen.space/categories/%E7%AE%97%E6%B3%95/"/>
     
     
     <category term="职业发展" scheme="https://baolanchen.space/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
