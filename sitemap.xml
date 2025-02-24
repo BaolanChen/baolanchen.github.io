@@ -4,6 +4,24 @@
   <url>
     <loc>https://baolan.vip/posts/2013456d.html</loc>
     
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolan.vip/posts/2013456d.html</loc>
+    
+    <lastmod>2025-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolan.vip/posts/2013456d.html</loc>
+    
     <lastmod>2025-01-21</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -65,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://baolan.vip/box/nav/index.html</loc>
+    <loc>https://baolan.vip/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://baolan.vip/box/gallery/index.html</loc>
+    <loc>https://baolan.vip/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://baolan.vip/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://baolan.vip/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -110,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://baolan.vip/personal/love/index.html</loc>
+    <loc>https://baolan.vip/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -155,6 +164,15 @@
   </url>
   
   <url>
+    <loc>https://baolan.vip/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://baolan.vip/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -184,7 +202,7 @@
 
   <url>
     <loc>https://baolan.vip/</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,28 +210,28 @@
   
   <url>
     <loc>https://baolan.vip/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://baolan.vip/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://baolan.vip/tags/Markdown/</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://baolan.vip/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -222,7 +240,7 @@
   
   <url>
     <loc>https://baolan.vip/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2025-01-21</lastmod>
+    <lastmod>2025-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

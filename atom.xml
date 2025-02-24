@@ -6,7 +6,7 @@
   <link href="https://baolan.vip/atom.xml" rel="self"/>
   
   <link href="https://baolan.vip/"/>
-  <updated>2025-01-21T14:00:00.000Z</updated>
+  <updated>2025-02-11T14:11:00.000Z</updated>
   <id>https://baolan.vip/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>量化投资学习</title>
+    <link href="https://baolan.vip/posts/2013456d.html"/>
+    <id>https://baolan.vip/posts/2013456d.html</id>
+    <published>2025-02-11T12:19:03.000Z</published>
+    <updated>2025-02-11T14:11:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1>1.什么是量化投资</h1><h1>2.量化投资学习</h1>]]></content>
+    
+    
+    <summary type="html">本文介绍量化投资学习</summary>
+    
+    
+    
+    <category term="演示" scheme="https://baolan.vip/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+    <category term="职业发展" scheme="https://baolan.vip/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
+    
+    <category term="人工智能" scheme="https://baolan.vip/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大语言模型基础知识</title>
+    <link href="https://baolan.vip/posts/2013456d.html"/>
+    <id>https://baolan.vip/posts/2013456d.html</id>
+    <published>2025-02-11T10:19:03.000Z</published>
+    <updated>2025-02-11T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1>1.大语言模型的前世今生</h1><h1>2.大模型SFT</h1><h1>3.大模型Post-Training</h1><h1>4.大模型RLHF</h1>]]></content>
+    
+    
+    <summary type="html">本文介绍大语言模型基础知识</summary>
+    
+    
+    
+    <category term="演示" scheme="https://baolan.vip/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+    <category term="职业发展" scheme="https://baolan.vip/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
+    
+    <category term="人工智能" scheme="https://baolan.vip/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>深度学习基础知识</title>
