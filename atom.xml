@@ -23,7 +23,7 @@
     <published>2025-02-24T12:19:03.000Z</published>
     <updated>2025-02-24T14:11:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h1>1.博客知识构建</h1><h1>2.博客网站魔改</h1><h1>3.博客网站添加模块</h1><h1>4.优秀博客参考</h1><ul><li><a href="https://polabread.icu/">polabread</a></li><li><a href="https://www.billhu.xyz/">BillHu</a></li><li><a href="https://nyakku.moe/">nyakku</a></li></ul><h1>5.博客内容</h1><ul><li>图床：<a href="https://imgse.com/">https://imgse.com/</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1>1.博客知识构建</h1><h1>2.博客网站魔改</h1><h1>3.博客网站添加模块</h1><h1>4.优秀博客参考</h1><ul><li><a href="https://polabread.icu/">polabread</a></li><li><a href="https://www.billhu.xyz/">BillHu</a></li><li><a href="https://nyakku.moe/">nyakku</a></li></ul><h1>5.博客内容</h1><ul><li>图床：<a href="https://imgse.com/">https://imgse.com/</a></li><li>无损压缩：<a href="https://tinypng.com/">https://tinypng.com/</a></li><li>图像处理工具：<a href="https://imagestool.com/zh_CN/">https://imagestool.com/zh_CN/</a></li></ul>]]></content>
     
     
     <summary type="html">博客知识整理介绍</summary>
@@ -117,9 +117,9 @@
     <category term="算法" scheme="https://baolanchen.space/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="人工智能" scheme="https://baolanchen.space/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
-    
     <category term="职业发展" scheme="https://baolanchen.space/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/"/>
+    
+    <category term="人工智能" scheme="https://baolanchen.space/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
   </entry>
   
