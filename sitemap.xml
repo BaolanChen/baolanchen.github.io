@@ -83,6 +83,24 @@
   </url>
   
   <url>
+    <loc>https://baolanchen.space/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolanchen.space/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://baolanchen.space/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -92,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://baolanchen.space/box/animation/index.html</loc>
+    <loc>https://baolanchen.space/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -110,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://baolanchen.space/life/games/index.html</loc>
+    <loc>https://baolanchen.space/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -146,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://baolanchen.space/site/census/index.html</loc>
+    <loc>https://baolanchen.space/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,25 +182,7 @@
   </url>
   
   <url>
-    <loc>https://baolanchen.space/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://baolanchen.space/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baolanchen.space/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -218,13 +218,6 @@
 
   
   <url>
-    <loc>https://baolanchen.space/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/</loc>
-    <lastmod>2025-02-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://baolanchen.space/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2025-02-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,7 +225,14 @@
   </url>
   
   <url>
-    <loc>https://baolanchen.space/tags/Markdown/</loc>
+    <loc>https://baolanchen.space/tags/%E8%81%8C%E4%B8%9A%E5%8F%91%E5%B1%95/</loc>
+    <lastmod>2025-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolanchen.space/tags/%E6%8A%95%E8%B5%84/</loc>
     <lastmod>2025-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -246,7 +246,7 @@
   </url>
   
   <url>
-    <loc>https://baolanchen.space/tags/%E6%8A%95%E8%B5%84/</loc>
+    <loc>https://baolanchen.space/tags/Markdown/</loc>
     <lastmod>2025-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -255,14 +255,7 @@
 
   
   <url>
-    <loc>https://baolanchen.space/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2025-02-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://baolanchen.space/categories/%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://baolanchen.space/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2025-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -276,7 +269,14 @@
   </url>
   
   <url>
-    <loc>https://baolanchen.space/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://baolanchen.space/categories/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2025-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolanchen.space/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2025-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
