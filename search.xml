@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>计算机八股</title>
-      <link href="/posts/2013461d.html"/>
-      <url>/posts/2013461d.html</url>
-      
-        <content type="html"><![CDATA[<h1>0.计算机八股</h1><h1>1.开发知识</h1><h1>2.算法知识</h1>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>PaddleMIX</title>
+      <title>PaddleMIX模型开发</title>
       <link href="/posts/2013459d.html"/>
       <url>/posts/2013459d.html</url>
       
-        <content type="html"><![CDATA[<h1 id="0-项目背景"><a href="#0-项目背景" class="headerlink" title="0.项目背景"></a>0.项目背景</h1><h1 id="1-项目总览"><a href="#1-项目总览" class="headerlink" title="1.项目总览"></a>1.项目总览</h1><h1 id="2-方法参考"><a href="#2-方法参考" class="headerlink" title="2.方法参考"></a>2.方法参考</h1><h1 id="3-实现记录"><a href="#3-实现记录" class="headerlink" title="3.实现记录"></a>3.实现记录</h1><h1 id="4-效果展示"><a href="#4-效果展示" class="headerlink" title="4.效果展示"></a>4.效果展示</h1>]]></content>
+        <content type="html"><![CDATA[<h1>0.项目背景</h1><h1>1.项目总览</h1><h1>2.方法参考</h1><h1>3.实现记录</h1><h1>4.效果展示</h1>]]></content>
       
       
       <categories>
@@ -36,6 +23,19 @@
             <tag> 人工智能 </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机八股</title>
+      <link href="/posts/2013461d.html"/>
+      <url>/posts/2013461d.html</url>
+      
+        <content type="html"><![CDATA[<h1>0.计算机八股</h1><h1>1.开发知识</h1><h1>2.算法知识</h1>]]></content>
+      
+      
       
     </entry>
     
