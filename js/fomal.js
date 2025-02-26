@@ -3092,7 +3092,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://source.fomal.cc/img/home_bg.webp);
+    --default-bg: url(https://s21.ax1x.com/2025/02/26/pE3PrIf.jpg);
     --darkmode-bg:url(https://s21.ax1x.com/2025/02/26/pE3kNzF.jpg);
     --mobileday-bg: url(https://s21.ax1x.com/2025/02/26/pE3PrIf.jpg);
     --mobilenight-bg: url(https://s21.ax1x.com/2025/02/26/pE3kNzF.jpg);
