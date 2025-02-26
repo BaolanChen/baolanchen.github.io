@@ -3093,7 +3093,7 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://s21.ax1x.com/2025/02/26/pE3PrIf.jpg);
-    --darkmode-bg:url(https://s21.ax1x.com/2025/02/25/pE1tTOA.jpg);
+    --darkmode-bg:url(https://s21.ax1x.com/2025/02/26/pE3kNzF.jpg);
     --mobileday-bg: url(https://s21.ax1x.com/2025/02/25/pE1tbwt.jpg);
     --mobilenight-bg: url(https://s21.ax1x.com/2025/02/25/pE1t5Se.jpg);
   }`;
