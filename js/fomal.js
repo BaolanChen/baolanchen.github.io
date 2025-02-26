@@ -3076,7 +3076,7 @@ let picsum = "url(https://picsum.photos/1920/1080.webp)";
 let waiBizhi = "url(https://api.ixiaowai.cn/gqapi/gqapi.php)";
 // 博天随机
 let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
-// tuapi 动漫
+
 // let tuapi = "url(https://tuapi.eees.cc/api.php?category=dongman)";
 // unsplash随机 https://source.unsplash.com/random/1920x1080/daily (weekly)
 let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
@@ -3105,6 +3105,7 @@ function changeBg(s) {
   setBg(s);
   localStorage.setItem("blogbg", s);
 }
+
 // 设置背景属性
 function setBg(s) {
   document.getElementById("defineBg").innerText = `:root{
